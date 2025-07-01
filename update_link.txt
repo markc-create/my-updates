@@ -1,1 +1,1 @@
-https://www.dropbox.com/scl/fi/cns5vzy6xj1y9d8lbg53j/linear_interpolation_calc.exe?rlkey=uupyceeky6uj6aqet9cx4xng0&st=7twirt32&dl=0
+https://github.com/markc-create/my-updates/releases/download/v0.4/linear_interpolation_calc.exe
